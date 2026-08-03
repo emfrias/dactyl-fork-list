@@ -1,3 +1,7 @@
+# Obsolete
+
+This repo has been abandoned, I haven't updated it in 7 years.  I'm archiving the project, and may delete it entirely in the coming months.
+
 # Dactyl Manuform Forks
 
 This is a list of interesting forks of the [Dactyl Manuform](https://github.com/tshort/dactyl-keyboard) keyboard.
